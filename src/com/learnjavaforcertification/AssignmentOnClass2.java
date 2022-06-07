@@ -174,37 +174,5 @@ static int sumOfAnglesOfTriangle=180;
 
         System.out.println("Total "+ total+ "\tAverage "+average+"\tPercentage "+percentage);
 
-
-
-
-
-
-
-//        // write code to swap two numbers
-//        int a1=9;
-//        int b1=10;
-//        System.out.println("Before Swap a1 = "+a1+" b1= "+b1);
-//        //swap Start
-//        int temp;
-//        temp=a1;
-//        a1=b1;
-//        b1=temp;
-//
-//        System.out.println("After Swap a1 = "+a1+" b1= "+b1);
-//
-//        // swap without third variable
-//
-//        System.out.println("......swap without third variable Start.....");
-//        System.out.println("Before Swap a1 = "+a1+" b1= "+b1);
-//        a1=a1+b1;//19
-//        b1=a1-b1;//9
-//        a1=a1-b1;//10
-//        System.out.println("After Swap a1 = "+a1+" b1= "+b1);
-
-
-
-
-
-
     }
 }
