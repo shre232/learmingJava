@@ -9,6 +9,5 @@ public class Shre_java_1 {
     public static void main(String[] args) {
         //first java code
         System.out.println("Hello World!");
-
     }
 }
